@@ -53,7 +53,7 @@ Now we will be building out the VPC networking components as well as security gr
   - Route Tables
   - Internet Gateway
   - NAT gateway
-  - Security Groups
+  - Security Groups.
 
 ### VPC and Subnets
 
